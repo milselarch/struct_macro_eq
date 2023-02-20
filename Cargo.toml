@@ -10,6 +10,7 @@ description = "implements Eq for structs, but with the ability to exclude fields
 license = "MIT"
 documentation = "https://github.com/milselarch/struct_macro_eq/"
 homepage = "https://github.com/milselarch/struct_macro_eq/"
+keywords = ["equality", "struct", "macro"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
