@@ -1,0 +1,15 @@
+[lib]
+proc-macro = true
+
+[package]
+name = "struct_macro_eq"
+version = "0.1.0"
+edition = "2021"
+authors = ["Charles Lim <milselarch@gmail.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+quote = "1.0.23"
+syn = "1.0.107"
+regex = "1.6"
