@@ -6,6 +6,10 @@ name = "struct_macro_eq"
 version = "0.1.0"
 edition = "2021"
 authors = ["Charles Lim <milselarch@gmail.com>"]
+description = "implements Eq for structs, but with the ability to exclude fields from equality checking using an ignore_regex attribute"
+license = "MIT"
+documentation = "https://github.com/milselarch/struct_macro_eq/"
+homepage = "https://github.com/milselarch/struct_macro_eq/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
